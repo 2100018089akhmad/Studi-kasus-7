@@ -1,0 +1,6 @@
+Studi kasus Pengumpulan Data PNS
+Masukkan ID : 18302
+Masukkan Nama : Bayu
+Masukkan Alamat : Jogja
+Masukkan noTelp : 0857619432
+Masukkan Jabatan : PNS
